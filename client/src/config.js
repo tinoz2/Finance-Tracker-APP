@@ -1,0 +1,1 @@
+export const BACKEND = 'https://finance-tracker-app-production.up.railway.app/';
