@@ -1,1 +1,1 @@
-export const BACKEND = 'https://finance-tracker-app-production.up.railway.app/';
+export const BACKEND = 'https://finance-tracker-app-neh5.onrender.com/';

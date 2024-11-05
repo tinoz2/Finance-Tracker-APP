@@ -43,8 +43,8 @@ const MainPage = () => {
                 <div className="flex items-center my-16">
                     <div className="flex justify-evenly items-center">
                         <div className="w-1/3">
-                            <h2 className="text-6xl font-semibold leading-snug mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing !</h2>
-                            <p className="font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo animi deserunt ratione repellat enim quia molestiae magnam.</p>
+                            <h2 className="text-6xl font-semibold leading-snug mb-4">Plan, save, and enjoy: finances at your fingertips !</h2>
+                            <p className="font-medium">ake control of your financial journey with FinanceTrackerApp—where budgeting meets simplicity, allowing you to plan, save, and invest with confidence for a brighter future.</p>
                             <Button className="mt-12 text-lg p-6" variant="outline"><Link to='/register'>Get started </Link><ChevronRight className="ml-4" /></Button>
                         </div>
                         <aside>

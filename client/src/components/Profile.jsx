@@ -28,7 +28,7 @@ const Profile = () => {
                 <div className="relative z-10 p-8 flex flex-col justify-center h-full">
                     <h1 className="text-white text-4xl font-bold">Hello, {user.username}! 👋</h1>
                     <p className="text-white mt-2 text-base">
-                        Your net worth is $5,000 higher than last month. Here's what happened.
+                        We hope you are saving your money up!
                     </p>
 
                     <div className="mt-4 flex gap-4">

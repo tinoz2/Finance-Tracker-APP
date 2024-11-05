@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build --prefix backend",
     "start": "node backend/index.js"
   },
   "author": "",
